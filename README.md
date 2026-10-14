@@ -52,6 +52,8 @@ scripts/
 cd backend
 npm install
 cp .env.example .env     # then edit the values
+npm run seed:admin
+npm run dev
 ```
 
 ### Environment variables
